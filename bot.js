@@ -1,0 +1,16 @@
+algoliasearch-client-js	{"XLUO134HOR":{"hostIndexes":{"read":0,"write":0},"timeoutMultiplier":1,"shuffleResult":[3,1,2],"lastChange":1552205759593}}	
+auto-quality-forced-v2	true	
+automodChatCogTooltipSeenNumTimes	1	
+local_copy_unique_id	"72627bcbdabbf9a4"	
+local_storage_device_id	"1e29ba6a9bf7caa7"	
+lowLatencyMaxSeenCount	0	
+lowLatencySeenThisWeekTimestamp	1551601765064	
+placeholder-memory.raouf341234123	{"prime-bar":true}	
+quality-bitrate	undefined	
+twilight-onboarding	true	
+twilight.emote_picker_history	{"9":{"emote":{"id":"9","token":"<3"},"lastUpdatedAt":5,"uses":0},"25":{"emote":{"id":"25","token":"Kappa"},"lastUpdatedAt":10,"uses":0},"41":{"emote":{"id":"41","token":"Kreygasm"},"lastUpdatedAt":1,"uses":0},"86":{"emote":{"id":"86","token":"BibleThump"},"lastUpdatedAt":4,"uses":0},"88":{"emote":{"id":"88","token":"PogChamp"},"lastUpdatedAt":8,"uses":0},"245":{"emote":{"id":"245","token":"ResidentSleeper"},"lastUpdatedAt":2,"uses":0},"28087":{"emote":{"id":"28087","token":"WutFace"},"lastUpdatedAt":3,"uses":0},"30259":{"emote":{"id":"30259","token":"HeyGuys"},"lastUpdatedAt":11,"uses":0},"58765":{"emote":{"id":"58765","token":"NotLikeThis"},"lastUpdatedAt":6,"uses":0},"64138":{"emote":{"id":"64138","token":"SeemsGood"},"lastUpdatedAt":0,"uses":0},"81274":{"emote":{"id":"81274","token":"VoHiYo"},"lastUpdatedAt":7,"uses":0},"425618":{"emote":{"id":"425618","token":"LUL"},"lastUpdatedAt":9,"uses":0}}	
+twilight.sessionID	"855b87cc4cd48eed"	
+useHighContrastColors	true	
+video-muted	{"carousel":false,"default":false}	
+video-quality	{"default":"auto"}	
+volume	0.5	
